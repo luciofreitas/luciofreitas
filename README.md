@@ -26,9 +26,8 @@ Let's talk? ⤵️
 
 </br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/vrct07)](https://www.linkedin.com/in/lucio-freitas/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailtovrct07@gmail.com)](mailto:luciodfp@gmail.com)
 <p align = "center">
-<a>
- [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=luciofreitas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- </a>
+  <a href="https://github.com/luciofreitas/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciofreitas&layout=compact&theme=dark"/></a> 
+  <a href="https://github.com/luciofreitas/"><img src="https://github-readme-stats.vercel.app/api?username=luciofreitas&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="luciofreitas"/></a>
+</p>
 </p>
