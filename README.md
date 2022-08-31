@@ -13,7 +13,7 @@
 
 * Graduated in Information System;
 * Post-Graduated in FrontEnd Development;
-* Aspirant at Development Java | BD - MySQL
+* Aspirant at Development Java | db - MySQL
 
 </br>
 </br>
