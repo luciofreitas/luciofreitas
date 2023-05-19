@@ -14,7 +14,7 @@
 * Graduated in Information System;
 * Post-Graduated in FrontEnd Development;
 * Aspirant at Development Java | db - MySQL
-* Aspirant at Development C# and ASP .NET
+* Aspirant at Development C# ASP.NET MVC
 
 </br>
 </br>
